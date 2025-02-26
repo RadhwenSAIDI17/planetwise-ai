@@ -1,0 +1,11 @@
+Region,Latitude,Longitude,Population,CO2_Emissions,Sector,Emissions_Per_Capita,Description
+Île-de-France,48.8566,2.3522,12100,150,Transport,0.0124,Région dense avec des émissions principalement dues au transport.
+Occitanie,43.6045,1.4442,6000,120,Agriculture,0.02,Région agricole avec des émissions modérées.
+Provence-Alpes-Côte d'Azur,43.9352,6.0679,5000,110,Transport,0.022,Région avec une forte dépendance au transport.
+Bretagne,48.1173,-1.6778,4000,90,Industrie,0.0225,Région industrielle avec des émissions faibles.
+Nouvelle-Aquitaine,44.8378,-0.5792,5900,130,Transport,0.02203,Région équilibrée entre transport et agriculture.
+Grand Est,48.5734,7.7521,5500,125,Industrie,0.02273,Région industrielle avec des émissions élevées.
+Hauts-de-France,50.6292,3.0573,6000,140,Transport,0.02333,Région avec des émissions élevées dues au transport.
+Normandie,49.4432,1.0993,3300,80,Agriculture,0.02424,Région agricole avec des émissions modestes.
+Centre-Val de Loire,47.9029,1.9093,2600,60,Agriculture,0.02308,Région agricole avec des émissions parmi les plus faibles.
+Pays de la Loire,47.2184,-1.5536,3700,70,Industrie,0.01892,Région industrielle avec des émissions faibles.

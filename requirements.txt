@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+requests
+pandas
+plotly
+langchain
+langchain_community
+langchain_huggingface
+langchain_groq
+langgraph
