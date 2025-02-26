@@ -24,7 +24,7 @@ embedding_model, retriever, llm = get_resources()
 
 import os
 
-open_weather_api_key = os.getenv("OPENWEATHERMAP_API_KEY")
+open_weather_api_key = os.getenv("OPENWEATHER_API_KEY")
 air_quality_api = AirQualityAPI(api_key=open_weather_api_key)
 
 # Build the workflow graph

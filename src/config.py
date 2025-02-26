@@ -11,7 +11,7 @@ def load_config():
     """Load environment variables from .env."""
     load_dotenv()
     GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-    os.environ["GROQ_API_KEY"] = GROQ_API_KEY  # Ensure key is available globally
+    os.environ["GROQ_API_KEY"] = GROQ_API_KEY
 
 
 def load_models_and_data():
