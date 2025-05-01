@@ -16,7 +16,7 @@ PlanetWise AI is an AI-powered assistant designed to provide valuable insights i
 
 For detailed insights into the project, please refer to the presentation file:
 
-- [PlanetWise AI Presentation](docs/PlanetWise_AI_Presentation.pptx)  
+- [PlanetWise AI Presentation](docs/PlanetWise_AI_Presentation.pptx)\
   This file includes:
   - An overview of the project
   - Key features and strengths
@@ -33,14 +33,25 @@ A short video demonstration is also provided in the repository to illustrate the
 Follow these steps to set up and run the project:
 
 ### 1️⃣ Install Dependencies
+
+```bash
 python -m venv env
 .\env\Scripts\activate
 pip install -r requirements.txt
+```
 
 ### 2️⃣ Add API Keys
+
 Set the following environment variables:
+
+```bash
 GROQ_API_KEY=your_groq_api_key
 OPENWEATHERMAP_API_KEY=your_openweathermap_api_key
+```
 
 ### 3️⃣ Run the Application
+
+```bash
 streamlit run app.py
+```
+
